@@ -1,0 +1,26 @@
+body{
+    height: 3500px;
+    background-color: #f5d9d5;
+}
+
+.navbar-scrolled {
+    background-color: #dec0de;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.navbar {
+    transition: all 0.5s;
+}
+
+.row>* { 
+    padding-left: 0;
+    padding-right: 0;
+    }
+
+#cchange {
+    background-color: #f5d9d5;
+}
+
+#cchange1 {
+    color: #f498bf;
+}
